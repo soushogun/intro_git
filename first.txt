@@ -2,3 +2,7 @@ git and github training.
 ローカルリポジトリの前にステージングエリアというものがある。
 そこからローカルリポジトリにファイルの変更をするには
 git add コマンドが必要になる。
+
+:git add
+:git commit
+この２つの解説  
