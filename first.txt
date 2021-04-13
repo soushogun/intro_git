@@ -6,3 +6,5 @@ git add コマンドが必要になる。
 :git add
 :git commit
 この２つの解説  
+:git add . 
+複数ファイルの変更のやりかた
